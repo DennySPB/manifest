@@ -515,4 +515,5 @@
   <project path="packages/apps/CalendarWidget" name="DirtyUnicorns/android_packages_apps_CalendarWidget" remote="github" revision="n7x" />
 
   <include name="mod/mod.xml" />
+  <include name="mod/AOSP-JF-MM.xml" />
 </manifest>
