@@ -30,7 +30,8 @@
            revision="7.x" />
            
   <remote name="mod"
-           fetch="https://github.com/AOSP-Extended-Mod" />
+           fetch="https://github.com/AOSP-Extended-Mod"
+           revision="mod" />
 
   <remote name="gemini"
            fetch="https://github.com/AOSP-Extended-Mod" 
@@ -46,7 +47,7 @@
            sync-j="4" />
 
  <!-- AospExtended -->
-  <project path="manifest" name="manifest" remote="ex" />
+  <project path="manifest" name="manifest" remote="mod" />
   <project path="bionic" name="platform_bionic" groups="pdk" remote="ex" />
   <project path="packages/apps/AEXOTA" name="platform_packages_apps_AEXOTA" groups="pdk-fs" remote="ex" />
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="ex" />
