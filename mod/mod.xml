@@ -18,6 +18,6 @@
 <project path="frameworks/base" name="platform_frameworks_base" remote="mod" revision="mod"/>
 <project path="external/sqlite" name="platform_external_sqlite" groups="pdk" remote="aosp-jf" />
 <project path="device/xiaomi/gemini" name="platform_device_xiaomi_gemini" remote="mod" revision="vox" />
-<project path="vendor/xiaomi" name="proprietry_vendor_xiaomi" remote="mod" revision="vox" />
-<project path="vendor/miui" name="proprietry_vendor_miui" remote="mod" revision="Arnova8G2" />
+<project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="mod" revision="vox" />
+<project path="vendor/miui" name="platform_vendor_miui" remote="mod" revision="Arnova8G2" />
 </manifest>
