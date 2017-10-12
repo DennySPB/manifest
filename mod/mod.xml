@@ -19,4 +19,5 @@
   <project path="device/xiaomi/gemini" name="platform_device_xiaomi_gemini" remote="mod" revision="vox" />
   <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="mod" revision="vox" />
   <project path="vendor/miui" name="platform_vendor_miui" remote="mod" revision="Arnova8G2" />
+  <project path="device/voxpopuli" name="android_device_voxpopuli" remote="mod" revision="msm8996" />
 </manifest>
