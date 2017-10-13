@@ -21,4 +21,5 @@
   <project path="vendor/miui" name="platform_vendor_miui" remote="mod" revision="Arnova8G2" />
   <project path="device/voxpopuli" name="android_device_voxpopuli" remote="mod" revision="msm8996" />
   <project path="packages/apps/Spectrum" name="platform_packages_apps_Spectrum" remote="mod" revision="master" />
+  <project path="external/noto-fonts" name="platform_external_noto-fonts" remote="mod" revision="mod" />
 </manifest>
