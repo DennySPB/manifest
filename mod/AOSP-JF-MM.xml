@@ -57,7 +57,6 @@
   <project path="external/apache-http" name="platform_external_apache-http" groups="pdk"  remote="aosp-jf" />
   <project path="vendor/qcom/opensource/dpm/" name="android_vendor_qcom_opensource_dpm" remote="aosp-jf" />
   <project path="vendor/qcom/sdclang-3.8/linux-x86" name="android_vendor_qcom_sdclang-3.8_linux-x86" remote="aosp-jf" />
-  <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" groups="pdk" remote="aosp-jf" />
   <project path="frameworks/rs" name="platform_frameworks_rs" groups="pdk" remote="aosp-jf" />
   <project path="external/gemmlowp" name="platform_external_gemmlowp" remote="aosp-jf" />
   <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" groups="qcom,qcom_gps" remote="aosp-jf" />
