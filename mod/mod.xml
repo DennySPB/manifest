@@ -16,7 +16,7 @@
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="gemini" />
   <project path="packages/apps/Extensions" name="platform_packages_apps_Extensions" remote="mod" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="mod" />
-  <project path="device/xiaomi/gemini" name="platform_device_xiaomi_gemini" remote="mod" revision="vox" />
+  <project path="device/xiaomi/gemini" name="platform_device_xiaomi_gemini" remote="mod" revision="uni" />
   <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="mod" revision="vox" />
   <project path="vendor/miui" name="platform_vendor_miui" remote="mod" revision="Arnova8G2" />
   <project path="packages/apps/Spectrum" name="platform_packages_apps_Spectrum" remote="mod" revision="mod" />
