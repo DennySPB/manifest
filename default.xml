@@ -30,12 +30,16 @@
            revision="7.x" />
            
   <remote name="mod"
-           fetch="https://github.com/AOSP-Extended-Mod"
+           fetch="https://github.com/DennySpb"
            revision="mod" />
 
   <remote name="gemini"
-           fetch="https://github.com/AOSP-Extended-Mod" 
+           fetch="https://github.com/DennySPb" 
 	         revision="gemini"/>
+
+  <remote name="kernel"
+           fetch="https://github.com/DennySPb" 
+	         revision="HMP"/>
 
   <remote name="linaro"
 	          fetch="git://android.git.linaro.org/"
